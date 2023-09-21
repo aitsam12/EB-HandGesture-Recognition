@@ -1,0 +1,20 @@
+{
+    "delta_t": 10000,
+    "height": 480,
+    "in_channels": 2,
+    "label_delta_t": 10000,
+    "label_map": [
+        "background",
+        "wave",
+        "point",
+        "fist",
+        "clap",
+        "armroll"
+    ],
+    "max_incr_per_pixel": 5,
+    "models": "ConvRNNClassifier",
+    "num_classes": 6,
+    "preprocess": "histo",
+    "use_label_freq": true,
+    "width": 640
+}
