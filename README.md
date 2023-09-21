@@ -1,5 +1,5 @@
 # EB-HandGesture-Recognition
-This is the code for our submission to ICRA2024.
+This is the code for our submission (2840) to ICRA2024.
 
 ### Title: Real-time Gesture Recognition with Event Cameras for Enhanced Robot Guidance
 
@@ -42,6 +42,7 @@ Create a label_map_dictionary.json file in the training data folder and paste th
 
 
 DATA SAMPLE image
+![alt text](images/data_pic_crop.jpg)
 
 ### Data Training Algorithms
 
