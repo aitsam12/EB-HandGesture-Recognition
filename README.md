@@ -2,7 +2,9 @@
 This is the code for our submission to ICRA2024.
 
 ### Title: Real-time Gesture Recognition with Event Cameras for Enhanced Robot Guidance
+
 ### Authors: Muhammad Aitsam, Alessandro Di Nuovo
+
 ### Institute: Sheffield Hallam University
 
 ### Project Objective:
