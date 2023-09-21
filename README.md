@@ -56,7 +56,14 @@ Validation Accuracy: 91.4%
 
 Testing: 88.68%
 
-### Final Model
+### Final Model (TorchScript)
+
+You can clone the final trained + converted model for deployment in real-world scenarios.
+
+- model_classifier.ptjit
+- info_classifier_jit.json
+
+
 
 
 
