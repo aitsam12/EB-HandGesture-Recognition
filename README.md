@@ -41,7 +41,7 @@ Download the dataset from this link: https://drive.google.com/file/d/1s2MhiM-6P4
 Create a label_map_dictionary.json file in the training data folder and paste this: {"0": "wave","1": "point", "2": "fist","3": "clap", "4": "armroll"}
 
 
-DATA SAMPLE image
+
 ![alt text](images/data_pic_crop.jpg)
 
 ### Data Training Algorithms
@@ -50,7 +50,8 @@ DATA SAMPLE image
 2. MobileNetV2
 3. SqueezeNet
 
-Training video gif
+![alt text](images/training_example.gif)
+
 
 ### Results
 
