@@ -44,24 +44,21 @@ Create a label_map_dictionary.json file in the training data folder and paste th
 
 ![alt text](images/data_pic_crop.jpg)
 
-### Data Training Algorithms
-
-1. ConvRNN
-2. MobileNetV2
-3. SqueezeNet
-
-![alt text](images/training_example.gif)
-
 
 ### Results
 
-##### ConvRNN
+##### We got most promising results with ConvRNN algorithm
 
 Training Accuracy: 95.23%
 
 Validation Accuracy: 91.4%
 
 Testing: 88.68%
+
+
+![alt text](images/training_example.gif)
+
+
 
 ### Final Model (TorchScript)
 
