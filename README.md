@@ -22,6 +22,12 @@ Follow the installation guidelines from: https://docs.prophesee.ai/stable/instal
 
 Number of Samples: 1500 
 
+Classes: "wave",
+        "point",
+        "fist",
+        "clap",
+        "armroll"
+
 Lightning Conditions: Low light, Normal Light
 
 Hands: Right and Left Hand
@@ -49,6 +55,8 @@ Training Accuracy: 95.23%
 Validation Accuracy: 91.4%
 
 Testing: 88.68%
+
+### Final Model
 
 
 
