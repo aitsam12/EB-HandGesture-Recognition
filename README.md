@@ -36,6 +36,11 @@ Distance: near, normal, far
 
 Time: 3sec
 
+Download the dataset from this link: https://drive.google.com/file/d/1s2MhiM-6P4IckIa3Sb9L0dBlzKdAIu6H/view?usp=sharing
+
+Create a label_map_dictionary.json file in the training data folder and paste this: {"0": "wave","1": "point", "2": "fist","3": "clap", "4": "armroll"}
+
+
 DATA SAMPLE image
 
 ### Data Training Algorithms
